@@ -1,4 +1,4 @@
-# wearvly
+# weather
 
 ## Project setup
 ```
